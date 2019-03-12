@@ -14,3 +14,6 @@ The computer reads the following physical properties of a typical spaceflight tr
 6. Temperature
 7. Altitude
 8. Time
+
+
+[Space-Daemon](https://github.com/nwoodr94/cpp-projects/blob/master/space-daemon.png) was the multiple stage sounding rocket designed to carry this payload through Mach 2 and to an altitude of 21 km.
