@@ -15,4 +15,4 @@ The computer reads the following physical properties of a typical spaceflight tr
 7. Altitude
 8. Time
 
-![Space Daemon](https://github.com/nwoodr94/cpp-projects/blob/master/space-daemon.png)
+![space-daemon.png](https://github.com/nwoodr94/cpp-projects/blob/master/space-daemon.png)
