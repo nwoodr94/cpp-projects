@@ -3,7 +3,7 @@ This is a C++ repository where I will host my scientific works.
 
 ### Flight Computer
 
-This project was for my senior capstone at the University of Washington, in 2017. I programmed a scientific payload consisting of an Arduino MEGA and an array of sensors, and validated its capabilities on a sounding rocket.
+[Scientific Payload](https://github.com/nwoodr94/cpp-projects/blob/master/scientific-payload.cpp) was for my senior capstone at the University of Washington, in 2017. I programmed a scientific payload consisting of an Arduino MEGA and an array of sensors, and validated its capabilities on a sounding rocket.
 
 The computer reads the following physical properties of a typical spaceflight trajectory and writes data to an SD card.
 
@@ -14,5 +14,3 @@ The computer reads the following physical properties of a typical spaceflight tr
 6. Temperature
 7. Altitude
 8. Time
-
-![space-daemon.png](https://github.com/nwoodr94/cpp-projects/blob/master/space-daemon.png)
