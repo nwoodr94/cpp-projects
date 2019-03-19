@@ -1,5 +1,5 @@
 # cpp-projects
-This is a C++ repository where I will host my scientific works.
+This is a C/C++ repository where I will host my scientific works.
 
 ### Flight Computer
 
