@@ -1,11 +1,8 @@
-# cpp-projects
-This is a C/C++ repository where I will host my scientific works.
-
 ### Flight Computer
 
-[Scientific Payload](https://github.com/nwoodr94/cpp-projects/blob/master/scientific-payload.cpp) I programmed a scientific payload consisting of an Arduino MEGA, and an array of sensors. This architecture and its capabilities were validated in a field test environment on a sounding rocket.
+The [Scientific Payload](https://github.com/nwoodr94/cpp-projects/blob/master/scientific-payload.cpp) project is a script I wrote for the University of Washington's Rockets and Instrumentation Laboratory. This script ran on an Arduino MEGA that I wired up to read data from sensors in a field test environment.
 
-The computer reads the following physical properties of a typical spaceflight trajectory and writes data to an SD card.
+The computer reads the following physical properties of a typical spaceflight trajectory, and writes data to an SD card.
 
 1. Acceleration (x,y,z)
 2. Gyroscope (roll,pitch,yaw)
@@ -16,4 +13,4 @@ The computer reads the following physical properties of a typical spaceflight tr
 8. Time
 
 
-[Space-Daemon](https://github.com/nwoodr94/cpp-projects/blob/master/space-daemon.png) was the multiple stage sounding rocket designed to carry this payload through Mach 2 and to an altitude of 21 km.
+The [Space-Daemon](https://github.com/nwoodr94/cpp-projects/blob/master/space-daemon.png) was a multiple stage sounding rocket designed to carry this payload through Mach 2 and to an altitude of 21 km.
